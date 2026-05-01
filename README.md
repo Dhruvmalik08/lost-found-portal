@@ -1,8 +1,6 @@
 # Lost & Found Portal
-Lost &amp; Found Portal – Web Technologies Project
 
-
-A web-based Lost and Found management system built as a college internal project.
+A web-based Lost and Found management system built as a Web Technologies project.
 
 ## Tech Stack
 - Frontend: HTML, CSS, JavaScript
